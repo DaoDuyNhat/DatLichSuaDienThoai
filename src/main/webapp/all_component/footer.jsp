@@ -16,7 +16,7 @@
         <li><i class="fas fa-phone-alt"></i> Tổng đài miễn phí: <strong>1800 2057</strong></li>
         <li><i class="fas fa-phone-alt"></i> Phản ánh dịch vụ: <strong>1800 2018</strong></li>
         <li><i class="fas fa-clock"></i> Giờ làm việc: Thứ 2 - CN, 8:00 - 21:00</li>
-        <li><button class="store-system-btn">Hệ thống cửa hàng Fastcare</button></li>
+        <li><button class="store-system-btn">Hệ thống cửa hàng</button></li>
       </ul>
     </div>
 
@@ -32,16 +32,16 @@
     </div>
 
     <div class="footer-section">
-      <h4>VỀ FASTCARE</h4>
+      <h4>ĐỒ ÁN</h4>
       <ul>
-        <li>Tuyển dụng</li>
-        <li>Giới thiệu</li>
-        <li>Tin tức</li>
+        <li> Duy Nhat</li>
+        <li> Nghia</li>
+        <li> Nam</li>
       </ul>
     </div>
 
     <div class="footer-section">
-      <h4>KẾT NỐI VỚI FASTCARE</h4>
+      <h4>KẾT NỐI</h4>
       <div class="social-icons">
         <i class="fab fa-youtube"></i>
         <i class="fab fa-facebook"></i>
@@ -55,8 +55,8 @@
   <div class="footer-bottom">
     <p>Công ty Cổ Phần thương mại dịch vụ NHT</p>
     <p>GPDKKD số 0314366277 do Sở kế hoạch và Đầu tư TP. Hồ Chí Minh cấp ngày 21/04/2017</p>
-    <p>Địa chỉ: 587 Lê Hồng Phong, P.10, Q.10, TP.HCM</p>
-    <p>Email: admin@fastcare.vn</p>
+    <p>Địa chỉ: TP.HCM</p>
+    <p>Email: admin@gmail.vn</p>
   </div>
 </footer>
 
@@ -66,15 +66,17 @@
     padding: 20px 0;
     font-family: Arial, sans-serif;
     color: #333;
+    width: 100%;
+    height: auto;
   }
 
   .footer-container {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 0 20px;
     max-width: 1200px;
     margin: 0 auto;
+
   }
 
   .footer-section {
